@@ -1,10 +1,3 @@
 # testing_jenkins
 
 ### This is a test
-
-asd
-asdasdas
-asd
-
-
-# Testandooo
